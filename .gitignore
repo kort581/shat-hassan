@@ -1,6 +1,7 @@
-*.i
-*.ii
-*.gpu
-*.ptx
-*.cubin
-*.fatbin
+git init
+git add .
+git commit -m "first upload"
+git branch -M main
+git remote add origin رابط_المستودع
+git push -u origin main
+
